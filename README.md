@@ -15,7 +15,7 @@ This project focuses on the **MIP Timing Detector (MTD)** for the **High-Luminos
 **Note on Code/Data**:  
 *Due to privacy and confidentiality policies at CERN, the code and data for this project cannot be made publicly available. However, the project methodology, key findings, and technical details are presented in the accompanying presentation slides.*  
 
-![](https://www.google.com/urlsa=i&url=https%3A%2F%2Fwww.sciencedirect.com%2Fscience%2Farticle%2Fpii%2FS0168900219305017&psig=AOvVaw1hTZk8reT394IpQgctXY31&ust=1746044520470000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMCn2e2I_owDFQAAAAAdAAAAABAE)
+![](MTD.png)
 
 
 ---
