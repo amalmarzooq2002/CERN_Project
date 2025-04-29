@@ -1,4 +1,4 @@
-# README: CERN Summer Student Programme Project  
+# CERN Summer Student Programme Project  
 
 ## Project Title  
 **Analysis and Data Processing for the MTD BTL Detector at HL-LHC**  
