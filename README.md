@@ -1,4 +1,4 @@
-# CERN Summer Student Programme Project  
+# README: CERN Summer Student Programme Project  
 
 ## Project Title  
 **Analysis and Data Processing for the MTD BTL Detector at HL-LHC**  
@@ -10,34 +10,44 @@
 ---
 
 ## Project Overview  
-This project focuses on the **MIP Timing Detector (MTD)** for the **High-Luminosity Large Hadron Collider (HL-LHC)**. The MTD introduces precise timing measurements to improve vertex reconstruction, critical for disentangling pile-up interactions in high-luminosity conditions. Key tasks include:  
-- Data processing and signal analysis.  
-- Studying **Minimum Ionizing Particles (MIPs)** and their interactions with the detector.  
+This project focuses on the **MIP Timing Detector (MTD)** for the **High-Luminosity Large Hadron Collider (HL-LHC)**. The MTD introduces precise timing measurements to improve vertex reconstruction, critical for disentangling pile-up interactions in high-luminosity conditions.  
+
+**Note on Code/Data**:  
+*Due to privacy and confidentiality policies at CERN, the code and data for this project cannot be made publicly available. However, the project methodology, key findings, and technical details are presented in the accompanying presentation slides.*  
 
 ---
 
 ## Key Components  
 ### 1. **MTD BTL Detector**  
-- **LYSO scintillator crystals** + **SiPMs** + **TOFHIR readout chips**.  
+- Uses **LYSO scintillator crystals**, **SiPMs**, and **TOFHIR readout chips**.  
 - Structured in azimuthal segments (10° each) with 6 readout units per segment.  
 
 ### 2. **TOFHIR Chip**  
-- Radiation-tolerant ASIC for signal amplification, shaping, and digitization.  
-- Features:  
-  - **TDC (Time-to-Digital Converter)**: Measures signal timing.  
-  - **QDC (Charge-to-Digital Converter)**: Measures integrated charge.  
-  - **CFD (Constant Fraction Discriminator)**: Enhances timing precision.  
+- Radiation-tolerant ASIC for signal processing.  
+- Features **TDC (timing)**, **QDC (charge)**, and **CFD (timing precision)**.  
 
-### 3. **Data Analysis Pipeline**  
-- Raw data conversion and event coupling.  
-- Filtering L1-triggered events for relevant physics.  
+### 3. **Analysis Goals**  
+- Study MIP interactions with LYSO crystals (Landau-distributed spectra).  
+- Process TOFHIR data for time/charge measurements.  
 
 ---
 
-## Tools  
-- **Programming**: Python  
-- **Libraries**:  
-  - `numpy`
-  - `matplotlib`
-  - `ROOT`
-- **Platform**: **Jupyter SWAN** (CERN’s cloud-based analysis environment).  
+## Tools & Technologies  
+- **Python** with `numpy`, `matplotlib`, and `uproot`.  
+- **Jupyter SWAN** (CERN's analysis platform).  
+
+---
+
+## Project Documentation  
+All technical details, methodologies, and results are documented in the presentation slides:  
+- **Presentation.pptx** (included in this repository).  
+
+---
+
+## Acknowledgments  
+Special thanks to my supervisors and the **CERN Summer Student Programme 2023** for this opportunity.  
+
+For inquiries, contact: **[Your Email]**  
+
+---  
+*This project was conducted as part of the **CERN Summer Student Programme 2023**. Code and data are restricted under CERN policies.*  
