@@ -3,9 +3,6 @@
 ## Project Title  
 **Analysis and Data Processing for the MTD BTL Detector at HL-LHC**  
 
-## Author  
-**Amal Ali Hasan**  
-
 ## Supervisors  
 - Mehmet Ozgur Sahin  
 - Flavia Cetorelli  
