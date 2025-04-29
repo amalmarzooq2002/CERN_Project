@@ -1,4 +1,4 @@
-# README: CERN Summer Student Programme Project  
+# CERN Summer Student Programme Project  
 
 ## Project Title  
 **Analysis and Data Processing for the MTD BTL Detector at HL-LHC**  
@@ -40,7 +40,7 @@ This project focuses on the **MIP Timing Detector (MTD)** for the **High-Luminos
 ## Tools & Technologies  
 - **Programming**: Python  
 - **Libraries**:  
-  - `numpy` (data processing)  
-  - `matplotlib` (visualization)  
-  - `ROOT` (ROOT file parsing)  
+  - `numpy`
+  - `matplotlib
+  - `ROOT`
 - **Platform**: **Jupyter SWAN** (CERN’s cloud-based analysis environment).  
