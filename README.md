@@ -46,8 +46,7 @@ All technical details, methodologies, and results are documented in the presenta
 
 ## Acknowledgments  
 Special thanks to my supervisors and the **CERN Summer Student Programme 2023** for this opportunity.  
-
-For inquiries, contact: **[Your Email]**  
+ 
 
 ---  
 *This project was conducted as part of the **CERN Summer Student Programme 2023**. Code and data are restricted under CERN policies.*  
