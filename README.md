@@ -9,14 +9,15 @@
 
 ---
 
+<img src = "MTD.png" width="600"></img>
+
+---
+
 ## Project Overview  
 This project focuses on the **MIP Timing Detector (MTD)** for the **High-Luminosity Large Hadron Collider (HL-LHC)**. The MTD introduces precise timing measurements to improve vertex reconstruction, critical for disentangling pile-up interactions in high-luminosity conditions.  
 
 **Note on Code/Data**:  
 *Due to privacy and confidentiality policies at CERN, the code and data for this project cannot be made publicly available. However, the project methodology, key findings, and technical details are presented in the accompanying presentation slides.*  
-
-<img src = "MTD.png" width="600"></img>
-
 
 ---
 
