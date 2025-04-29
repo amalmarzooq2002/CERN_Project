@@ -34,10 +34,10 @@ This project focuses on the **MIP Timing Detector (MTD)** for the **High-Luminos
 
 ---
 
-## Tools & Technologies  
+## Tools  
 - **Programming**: Python  
 - **Libraries**:  
   - `numpy`
-  - `matplotlib
+  - `matplotlib`
   - `ROOT`
 - **Platform**: **Jupyter SWAN** (CERN’s cloud-based analysis environment).  
