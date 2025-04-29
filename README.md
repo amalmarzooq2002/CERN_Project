@@ -8,10 +8,9 @@
 - Flavia Cetorelli  
 
 
+----
 
 <img src = "MTD.png" width="600"></img>
-
----
 
 ## Project Overview  
 This project focuses on the **MIP Timing Detector (MTD)** for the **High-Luminosity Large Hadron Collider (HL-LHC)**. The MTD introduces precise timing measurements to improve vertex reconstruction, critical for disentangling pile-up interactions in high-luminosity conditions.  
